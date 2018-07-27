@@ -133,6 +133,6 @@ We have minimized Regularized KL divergence for highly picked distributions usin
 ### Paper
 * [Neural Voice Cloning with a Few Samples (2018.02)](https://arxiv.org/abs/1802.06006)
 
-## Speed Up 전략
+## Speed ​​Up Strategy
 * [Fast Generation for Convolutional Autoregressive Models (2017.04)](https://arxiv.org/abs/1704.06001) - Prajit Ramachandran et al.
   * This technique was applied to Wavenet and PixelCNN ++ models, and it was said that there was a speed increase of up to 21 times and 183 times, respectively. It is important to note that the speed improvement may not be greater than expected in a real environment because it is the maximum performance improvement for a specific situation.
